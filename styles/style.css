@@ -147,6 +147,9 @@
   font-weight: normal;
   margin: 0 0 20px 0;
 }
+.table__text:last-of-type{
+  margin-bottom: 0;
+}
 .feynman {
   min-height: 890px;
   position: relative;
