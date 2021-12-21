@@ -1,0 +1,30 @@
+@import url(../Blocks/Header/header.css);
+@import url(../Blocks/Header/__main-illustration/header__main-illustration.css);
+@import url(../Blocks/Header/__square-pic/header__square-pic.css);
+@import url(../Blocks/Header/__title/header__title.css);
+@import url(../Blocks/Header/__subtitle/header__subtitle.css);
+@import url(../Blocks/Header/__link/header__link.css);
+@import url(../Blocks/Header/_logo/logo_place_header.css);
+
+@import url(../Blocks/Description/description.css);
+@import url(../Blocks/Description/two-colomns/two-colomns.css);
+@import url(../Blocks/Description/two-colomns/__brief/two-colomns__brief.css);
+@import url(../Blocks/Description/two-colomns/__main-text/two-colomns__main-text.css);
+@import url(../Blocks/Description/two-colomns/__paragraph/two-colomns__paragraph.css);
+@import url(../Blocks/Description/two-colomns/__paragraph/two-colomns__paragraphlastoftype.css);
+@import url(../Blocks/Description/two-colomns/__span-accent/two-colomns__span-accent.css);
+
+@import url(../Blocks/Digits/digits.css);
+@import url(../Blocks/Digits/section-title/section-title.css);
+@import url(../Blocks/Digits/section-subtitle/section-subtitle.css);
+@import url(../Blocks/Digits/table/table.css);
+@import url(../Blocks/Digits/table/__cell/table__cell.css);
+@import url(../Blocks/Digits/table/__heading/table__heading.css);
+@import url(../Blocks/Digits/table/__text/table__text.css);
+@import url(../Blocks/Digits/table/__text/table__textlastoftype.css);
+
+@import url(../Blocks/Feynman/feynman.css);
+
+@import url(../Blocks/Footer/footer.css);
+
+@import url(../Blocks/Kaufman/kaufman.css);
