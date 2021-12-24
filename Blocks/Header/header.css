@@ -8,5 +8,6 @@
     position: relative;
     margin-bottom: 100px;
     z-index: 0;
+    overflow: hidden;
   }
   

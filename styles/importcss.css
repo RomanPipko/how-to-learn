@@ -18,6 +18,13 @@
 @import url(../Blocks/Description/two-colomns/__paragraph/two-colomns__paragraphlastoftype.css);
 @import url(../Blocks/Description/two-colomns/__span-accent/two-colomns__span-accent.css);
 
+@import url(../Blocks/techniques/techniques.css);
+@import url(../Blocks/techniques/cards/cards.css);
+@import url(../Blocks/techniques/cards/__item/cards__item.css);
+@import url(../Blocks/techniques/cards/__image/cards__image.css);
+@import url(../Blocks/techniques/cards/__title/cards__title.css);
+@import url(../Blocks/techniques/cards/descriptions/cards__description.css);
+
 @import url(../Blocks/Digits/digits.css);
 @import url(../Blocks/Digits/section-title/section-title.css);
 @import url(../Blocks/Digits/section-subtitle/section-subtitle.css);
