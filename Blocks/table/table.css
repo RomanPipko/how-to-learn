@@ -1,9 +1,0 @@
-.table {
-    display: flex;
-    flex-wrap: wrap;
-    width: 1100px;
-    justify-content: space-around;
-    margin: 0 auto;
-    padding-inline-start: 0;
-  }
-  
