@@ -10,7 +10,9 @@
 @import url(./blocks/header/__title/header__title.css);
 @import url(./blocks/header/__subtitle/header__subtitle.css);
 @import url(./blocks/header/__link/header__link.css);
-@import url(./blocks/header/_logo/logo_place_header.css);
+
+@import url(./blocks/logo/_place/logo_place_header.css);
+@import url(./blocks/logo/_place/logo_place_footer.css);
 
 @import url(./blocks/description/description.css);
 @import url(./blocks/two-colomns/two-colomns.css);
@@ -20,11 +22,11 @@
 @import url(./blocks/two-colomns/__span-accent/two-colomns__span-accent.css);
 
 @import url(./blocks/techniques/techniques.css);
-@import url(./blocks/techniques/cards/cards.css);
-@import url(./blocks/techniques/cards/__item/cards__item.css);
-@import url(./blocks/techniques/cards/__image/cards__image.css);
-@import url(./blocks/techniques/cards/__title/cards__title.css);
-@import url(./blocks/techniques/cards/descriptions/cards__description.css);
+@import url(./blocks/cards/cards.css);
+@import url(./blocks/cards/__item/cards__item.css);
+@import url(./blocks/cards/__image/cards__image.css);
+@import url(./blocks/cards/__title/cards__title.css);
+@import url(./blocks/cards/__descriptions/cards__description.css);
 
 @import url(./blocks/video/__iframes/video__iframes.css);
 @import url(./blocks/video/__iframe/video__iframe.css);
@@ -78,4 +80,3 @@
 @import url(./blocks/footer/__colomn-links/footer__colomn-links.css);
 @import url(./blocks/footer/__colomns/footer__colomns.css);
 @import url(./blocks/footer/__social-icon/footer__social-icon.css);
-@import url(./blocks/footer/logo/_place/logo_place_footer.css);
